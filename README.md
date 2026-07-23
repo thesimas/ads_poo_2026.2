@@ -1,6 +1,6 @@
 # Programação Orientada a Objetos
 
-> Neste repositório estão todos os exercícios e laboratorios desenvolvidos na disciplina de Programação Orientada a Objetos do curso CST em Análise e desenvolvimento de Sistemas no IFSC, campus São José
+> Neste repositório estão todos os exercícios e laboratórios desenvolvidos na disciplina de Programação Orientada a Objetos do curso CST em Análise e Desenvolvimento de Sistemas no IFSC - Campus São José.
 
 
 ## Aulas
